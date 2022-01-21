@@ -4,7 +4,7 @@ This repository contains PyTorch implementation of the following paper: GANomaly
 
 ##  1. Table of Contents
  ```
- Installation
+ Installation -- Needy GPU: Geforce RTX 30 Series
  Custom Dataset
  Train
  Test
