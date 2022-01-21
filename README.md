@@ -1,4 +1,4 @@
-# GANomaly
+# GANomaly For BallCounterBar Vision Inspector SW
 
 This repository contains PyTorch implementation of the following paper: GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training [[1]](#reference)
 
