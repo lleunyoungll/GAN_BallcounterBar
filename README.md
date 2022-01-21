@@ -14,7 +14,7 @@ This repository contains PyTorch implementation of the following paper: GANomaly
 ## 2. Installation
 1. First clone this repository
    ```
-   git clone https://github.com/samet-akcay/ganomaly.git
+   git clone https://github.com/lleunyoungll/GAN_BallcounterBar.git
    ```
 2. Create the virtual environment via conda
     ```
