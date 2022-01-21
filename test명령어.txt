@@ -1,0 +1,5 @@
+python train.py --phase "test" --save_test_images --load_weights --batchsize 1
+
+##
+python train.py --phase "test" --save_test_images --load_weights --batchsize 1 --testOnefilepath "(파일경로)"
+이렇게 쳐주면 savedWeights에있는 netD.pth와 netG.pht모델로 테스트한 결과가 testResultOneFiles 에 해당 파일의 fake영상과 해당파일인 real영상으로 저장된다
