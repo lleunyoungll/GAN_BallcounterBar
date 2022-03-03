@@ -1,0 +1,5 @@
+python train.py
+
+##
+python train.py --resume “모델(netD.pth, netG.pth파일) 두개가 전부 들어있는 폴더경로”
+이렇게 쳐주면 모델(netD.pth, netG.pth파일) 두개가 전부 들어있는 폴더경로안에있는 netD.pth랑 netG.pth모델에서부터 이어서 트레인하게된다
